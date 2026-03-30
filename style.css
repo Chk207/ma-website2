@@ -15,6 +15,7 @@
     border: none;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 16px 32px;
+    border-radius: 12px;
 }
 .dasher:hover {
     transform: scale(1.05);
@@ -31,6 +32,7 @@
     transition: 0.2s;
     border: none;
     padding: 16px 32px;
+    border-radius: 12px;
 }
 .dasherpage2button:hover {
     transform: scale(1.05);
@@ -48,6 +50,7 @@
     border: none;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 16px 32px;
+    border-radius: 12px;
 }
 .dasher20:hover {
     transform: scale(1.05);
